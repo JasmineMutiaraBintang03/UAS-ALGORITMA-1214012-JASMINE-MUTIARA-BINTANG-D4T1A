@@ -1,5 +1,7 @@
 # UAS-ALGORITMA-1214012-JASMINE-MUTIARA-BINTANG-D4T1A
-Nama : Jasmine Mutiara Bintang Kelas : 1A/ D4 Teknik Informatika NPM : 1214012 Dosen Pengampu : Mohamad Nurkamal Fauzan
+Nama : Jasmine Mutiara Bintang Kelas : 1A/ D4 Teknik Informatika 
+NPM : 1214012 
+Dosen Pengampu : Mohamad Nurkamal Fauzan
 
 
 
